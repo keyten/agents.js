@@ -22,7 +22,7 @@ const bold = "\x1b[1m";
 const reset = "\x1b[0m";
 const CHAT_LINE = '---------------------------------------------------------';
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "your api key";
 
 const openAiRequest = async (data) => {
     try {
